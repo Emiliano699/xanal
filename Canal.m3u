@@ -1,0 +1,18 @@
+Renuevo LV
+https://v-lv.mybtv.net/live/1056.m3u8
+#EXTINF:-1 tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
+https://v-lv.mybtv.net/live/1057.m3u8
+#EXTINF:-1 tvg-id="CanalESNE(Spanish).us" group-title="RELIGIÓN", El Sembrador Nueva Evangelización
+https://v-la.mybtv.net/live/1102.m3u8
+#EXTINF:-1 tvg-id="" group-title="RELIGIÓN", Hora de Fé
+https://v-fn.mybtv.net/live/1188.m3u8
+#EXTINF:-1 tvg-id="ENLACETV.co" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.mx" tvg-name="Enlace Juvenil" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbn.jfif" group-title="RELIGIÓN",Enlace Juvenil
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93855/12?f=.m3u8
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/esne.png" group-title="RELIGIÓN",El Sembrador Nueva Evangelización
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/maria.png" group-title="RELIGIÓN",María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
